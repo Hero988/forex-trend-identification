@@ -1,1 +1,1 @@
-# forex-reinforcement-learning
+# forex-trend-identification
