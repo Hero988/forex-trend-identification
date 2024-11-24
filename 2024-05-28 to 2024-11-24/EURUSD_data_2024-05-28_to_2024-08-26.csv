@@ -1,4 +1,4 @@
-time,open,high,low,close,tick_volume,spread,real_volume
+time,open,high,low,Close,tick_volume,spread,real_volume
 2024-05-28 12:00:00,1.087,1.08776,1.08671,1.08769,1999,2,0
 2024-05-28 13:00:00,1.08768,1.08798,1.08754,1.08783,1622,2,0
 2024-05-28 14:00:00,1.08783,1.0889,1.08782,1.0884,2616,2,0
