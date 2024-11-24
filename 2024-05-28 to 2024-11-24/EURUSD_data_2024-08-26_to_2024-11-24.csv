@@ -1,4 +1,4 @@
-time,open,high,low,close,tick_volume,spread,real_volume
+time,open,high,low,Close,tick_volume,spread,real_volume
 2024-08-26 12:00:00,1.11803,1.11827,1.11714,1.11743,2960,2,0
 2024-08-26 13:00:00,1.11743,1.11769,1.11691,1.11715,2489,2,0
 2024-08-26 14:00:00,1.11715,1.11734,1.1163,1.11651,3070,2,0
